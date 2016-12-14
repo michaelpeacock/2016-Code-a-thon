@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration version="1">
+    <!-- Order matters in the instantiation of some of these -->
+    <!-- Core infrastructure classes must be instantiated first, and in the order given here -->
+	<Feature className="com.missionse.tacsit.window.TacsitWindow"/>
+    <Feature className="com.missionse.menubar.MenuBar"/>
+    <Feature className="com.missionse.tacsit.layers.LayerWindow"/>"
+    <Feature className="com.missionse.tacsit.shapefiles.ShapefileViewer"/>"
+    <Feature className="com.missionse.tacsit.kml.KMLFileViewer"/>"
+    <Feature className="com.missionse.tacsit.wms.WMSLayerManager"/>"
+</Configuration>

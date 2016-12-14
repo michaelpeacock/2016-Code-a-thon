@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2016 ASRC Federal Mission Solutions.
+    All rights reserved. No warranty, explicit or implicit, provided. This 
+    program and the accompanying materials are proprietary and 
+    confidential. Unauthorized copying or distribution of this file, 
+    via any medium, is strictly prohibited without consent from
+    ASRC Federal Mission Solutions.
+ -->
+
+<events>
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>1</trackNumber>
+		<category>surface</category>
+		<identity>hostile</identity>
+		<latitude>38.0</latitude>
+		<longitude>-74.0</longitude>
+		<xVelocity>0.0</xVelocity>
+		<yVelocity>0.0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>2</trackNumber>
+		<category>surface</category>
+		<identity>friend</identity>
+		<latitude>37.896605</latitude>
+		<longitude>-71.272923</longitude>
+		<xVelocity>0.0</xVelocity>
+		<yVelocity>0.0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>3</trackNumber>
+		<category>surface</category>
+		<identity>friend</identity>
+		<latitude>40.260199</latitude>
+		<longitude>-70.418387</longitude>
+		<xVelocity>0.0</xVelocity>
+		<yVelocity>0.0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>60000</startTime>
+		<interval>360000</interval>
+		<maxTracks>50</maxTracks>
+		<trackNumber>0</trackNumber>
+		<minCtsl>0</minCtsl>
+		<maxCtsl>0</maxCtsl>
+		<category>air</category>
+		<identity>friend</identity>
+		<latitude>40.006833</latitude>
+		<longitude>-74.616843</longitude>
+		<xVelocity>0.25</xVelocity>
+		<yVelocity>0.25</yVelocity>
+        <eventType>recurringTrack</eventType>
+	</TrackEvent>
+
+	<TrackEvent>
+		<startTime>0</startTime>
+		<interval>180000</interval>
+		<maxTracks>50</maxTracks>
+		<trackNumber>501</trackNumber>
+		<minCtsl>501</minCtsl>
+		<maxCtsl>550</maxCtsl>
+		<category>air</category>
+		<identity>suspect</identity>
+		<latitude>39.874371</latitude>
+		<longitude>-75.242616</longitude>
+		<xVelocity>1.0</xVelocity>
+		<yVelocity>0.0</yVelocity>
+        <eventType>recurringTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>10000</startTime>
+		<interval>180000</interval>
+		<maxTracks>50</maxTracks>
+		<trackNumber>551</trackNumber>
+		<minCtsl>551</minCtsl>
+		<maxCtsl>600</maxCtsl>
+		<category>air</category>
+		<identity>pending</identity>
+		<latitude>39.874371</latitude>
+		<longitude>-75.242616</longitude>
+		<xVelocity>-0.2</xVelocity>
+		<yVelocity>-1.0</yVelocity>
+        <eventType>recurringTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>30000</startTime>
+		<interval>180000</interval>
+		<maxTracks>50</maxTracks>
+		<trackNumber>601</trackNumber>
+		<minCtsl>601</minCtsl>
+		<maxCtsl>650</maxCtsl>
+		<category>air</category>
+		<identity>pending</identity>
+		<latitude>39.874371</latitude>
+		<longitude>-75.242616</longitude>
+		<xVelocity>-1.0</xVelocity>
+		<yVelocity>0.0</yVelocity>
+        <eventType>recurringTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>40000</startTime>
+		<interval>180000</interval>
+		<maxTracks>50</maxTracks>
+		<trackNumber>651</trackNumber>
+		<minCtsl>651</minCtsl>
+		<maxCtsl>700</maxCtsl>
+		<category>air</category>
+		<identity>assumedfriend</identity>
+		<latitude>39.874371</latitude>
+		<longitude>-75.242616</longitude>
+		<xVelocity>0.2</xVelocity>
+		<yVelocity>1.0</yVelocity>
+        <eventType>recurringTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>0</startTime>
+		<category>surface</category>
+		<identity>friend</identity>
+		<latitude>40.728916</latitude>
+		<longitude>-70.975783</longitude>
+		<targetLatitude>40.545500</targetLatitude>
+		<targetLongitude>-73.843554</targetLongitude>
+		<xVelocity>0.2</xVelocity>
+		<yVelocity>1.0</yVelocity>
+        <eventType>ftpTrack</eventType>
+	</TrackEvent>
+
+	<TrackEvent>
+		<startTime>0</startTime>
+		<interval>220000</interval>
+		<maxTracks>50</maxTracks>
+		<trackNumber>501</trackNumber>
+		<minCtsl>501</minCtsl>
+		<maxCtsl>550</maxCtsl>
+		<category>surface</category>
+		<identity>pending</identity>
+		<latitude>41.505295</latitude>
+		<longitude>-66.969170</longitude>
+		<xVelocity>-0.2</xVelocity>
+		<yVelocity>-1.0</yVelocity>
+        <eventType>recurringTrack</eventType>
+	</TrackEvent>
+	
+</events>

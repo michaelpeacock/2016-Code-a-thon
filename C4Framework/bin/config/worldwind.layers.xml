@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2016 ASRC Federal Mission Solutions.
+    All rights reserved. No warranty, explicit or implicit, provided. This 
+    program and the accompanying materials are proprietary and 
+    confidential. Unauthorized copying or distribution of this file, 
+    via any medium, is strictly prohibited without consent from
+    ASRC Federal Mission Solutions.
+ -->
+
+<!--$Id: worldwind.layers.xml 1382 2013-05-31 00:37:46Z tgaskins $-->
+<!--This document specifies the initial layers to load in World Wind-->
+<!--This list can be overridden by specifying an alternate list in worldwind.xml, or by specifying an-->
+<!--alternate configuration document-->
+<!--See the javadoc for the Configuration class for details-->
+<LayerList>
+	<Layer className="gov.nasa.worldwind.layers.ViewControlsLayer"/>
+    <Layer href="config/Earth/BMNGWMSLayer2.xml" actuate="onLoad"/> 
+    <Layer className="com.missionse.tacsit.layers.WaterLayer"/>
+    <Layer className="com.missionse.tacsit.layers.LandLayer"/>
+    <!--<Layer className="com.missionse.tacsit.layers.WorldBorders"/> -->
+    <Layer className="com.missionse.tacsit.layers.HeaderLayer"/>
+</LayerList>

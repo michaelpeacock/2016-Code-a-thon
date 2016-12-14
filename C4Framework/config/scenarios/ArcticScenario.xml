@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2016 ASRC Federal Mission Solutions.
+    All rights reserved. No warranty, explicit or implicit, provided. This 
+    program and the accompanying materials are proprietary and 
+    confidential. Unauthorized copying or distribution of this file, 
+    via any medium, is strictly prohibited without consent from
+    ASRC Federal Mission Solutions.
+ -->
+
+<events>
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>1</trackNumber>
+		<category>surface</category>
+		<identity>friend</identity>
+		<latitude>71.05</latitude>
+		<longitude>-157.25</longitude>
+		<xVelocity>0.0</xVelocity>
+		<yVelocity>0.0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>2</trackNumber>
+		<category>surface</category>
+		<identity>pending</identity>
+		<latitude>70</latitude>
+		<longitude>-163</longitude>
+		<xVelocity>0</xVelocity>
+		<yVelocity>0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>3</trackNumber>
+		<category>surface</category>
+		<identity>pending</identity>
+		<latitude>72</latitude>
+		<longitude>-149</longitude>
+		<xVelocity>-.25</xVelocity>
+		<yVelocity>-.25</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>4</trackNumber>
+		<category>surface</category>
+		<identity>pending</identity>
+		<latitude>70</latitude>
+		<longitude>-164</longitude>
+		<xVelocity>.25</xVelocity>
+		<yVelocity>.25</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>
+	
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>5</trackNumber>
+		<category>surface</category>
+		<identity>pending</identity>
+		<latitude>63.3</latitude>
+		<longitude>-164</longitude>
+		<xVelocity>0</xVelocity>
+		<yVelocity>0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>
+		
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>6</trackNumber>
+		<category>surface</category>
+		<identity>friend</identity>
+		<latitude>64.154301</latitude>
+		<longitude>-165.228882</longitude>
+		<xVelocity>0</xVelocity>
+		<yVelocity>0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>	
+		
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>7</trackNumber>
+		<category>surface</category>
+		<identity>pending</identity>
+		<latitude>71.50</latitude>
+		<longitude>-154.25</longitude>
+		<xVelocity>0</xVelocity>
+		<yVelocity>0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>		
+		
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>7</trackNumber>
+		<category>surface</category>
+		<identity>pending</identity>
+		<latitude>66.50</latitude>
+		<longitude>-163</longitude>
+		<xVelocity>0</xVelocity>
+		<yVelocity>0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>		
+		
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>8</trackNumber>
+		<category>air</category>
+		<identity>pending</identity>
+		<latitude>67.50</latitude>
+		<longitude>-163</longitude>
+		<xVelocity>0</xVelocity>
+		<yVelocity>0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>		
+		
+	<TrackEvent>
+		<startTime>0</startTime>
+		<trackNumber>9</trackNumber>
+		<category>air</category>
+		<identity>hostile</identity>
+		<latitude>68.50</latitude>
+		<longitude>-163</longitude>
+		<xVelocity>0</xVelocity>
+		<yVelocity>0</yVelocity>
+        <eventType>addTrack</eventType>
+	</TrackEvent>		
+		
+</events>

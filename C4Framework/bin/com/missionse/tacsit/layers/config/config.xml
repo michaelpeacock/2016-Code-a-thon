@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<!-- Copyright (c) 2016 ASRC Federal Mission Solutions. All rights reserved. 
+	No warranty, explicit or implicit, provided. This program and the accompanying 
+	materials are proprietary and confidential. Unauthorized copying or distribution 
+	of this file, via any medium, is strictly prohibited without consent from 
+	ASRC Federal Mission Solutions. -->
+
+<districts>
+	<district number="1">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 1</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="2">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 2</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="3">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 3</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="4">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 4</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="5">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 5</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+			<conferenece>
+				<id>2</id>
+				<name>CG District 17</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+			<conferenece>
+				<id>3</id>
+				<name>CG Global</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="6">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 6</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="7">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 7</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="8">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 8</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="9">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 9</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="10">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 10</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="11">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 11</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="12">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 12</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+
+	<district number="13">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 13</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+	
+		<district number="14">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 14</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+	
+		<district number="15">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 15</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+	
+		<district number="16">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 16</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+	
+		<district number="17">
+		<confereneces>
+			<conferenece>
+				<id>1</id>
+				<name>CG District 17</name>
+				<description1>Tx-100.00</description1>
+				<description2>Rx-100.00</description2>
+				<description3></description3>
+				<description4>D0</description4>
+				<description5></description5>
+			</conferenece>
+		</confereneces>
+	</district>
+</districts>
